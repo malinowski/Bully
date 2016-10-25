@@ -1,0 +1,8 @@
+.charBlock{
+width: 100px;
+height:100px;
+background:red;
+position:relative;
+margin:10px;
+float:left;
+}
